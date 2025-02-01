@@ -17,25 +17,6 @@ This project aims to detect and classify plant leaf diseases using **deep learni
 - **Matplotlib, Seaborn** for visualization  
 - **Jupyter Notebook** for development  
 
-## 🚀 How to Run  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/PlantLeafDiseaseDetection.git
-   cd PlantLeafDiseaseDetection
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run Jupyter Notebook:  
-   ```bash
-   jupyter notebook
-   ```
-4. Open `training_model.ipynb` and execute the cells.  
-
-## 📂 Dataset  
-The dataset contains images of **healthy and diseased plant leaves** categorized into multiple classes. You can use publicly available datasets like:  
-- **PlantVillage Dataset** (https://www.kaggle.com/datasets/emmarex/plantdisease)  
 
 ## 📝 Results  
 The model achieves **high accuracy** in detecting plant diseases, helping improve **precision agriculture** and reducing **crop losses**.  
