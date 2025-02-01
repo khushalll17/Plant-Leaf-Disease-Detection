@@ -6,7 +6,6 @@ This project aims to detect and classify plant leaf diseases using **deep learni
 ## ⚙️ Features  
 - 🌱 **Image-based disease detection** using **CNNs (Convolutional Neural Networks)**  
 - 📊 **Training on labeled datasets** for accurate predictions  
-- 📷 **Real-time disease classification** from leaf images  
 - 📈 **Evaluation metrics** like accuracy, precision, recall  
 - 🖥️ **Jupyter Notebook** implementation for easy experimentation  
 
