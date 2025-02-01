@@ -12,17 +12,12 @@ This project aims to detect and classify plant leaf diseases using **deep learni
 
 ## 🛠️ Tech Stack  
 - **Python** 🐍  
-- **TensorFlow/Keras** for deep learning  
-- **OpenCV** for image processing  
-- **Matplotlib, Seaborn** for visualization  
-- **Jupyter Notebook** for development  
+- **TensorFlow/Keras** for deep learning   
+- **Matplotlib, Seaborn** for visualization   
 
 
 ## 📝 Results  
 The model achieves **high accuracy** in detecting plant diseases, helping improve **precision agriculture** and reducing **crop losses**.  
-
-## 🤝 Contributing  
-Feel free to **fork** this repository, submit **pull requests**, or open **issues** for discussions.  
-
+ 
 ---
 
